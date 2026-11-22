@@ -22,16 +22,16 @@ This is a documentation-led portfolio. The JavaScript sample is illustrative and
 
 ```text
 api-testing-portfolio/
-├── README.md
-├── docs/
-│   ├── api-test-strategy.md
-│   └── security-testing-basics.md
 ├── api-test-examples/
 │   ├── apidog-api-test-examples.md
 └── test-cases/
     ├── boundary-scenarios.md
     ├── negative-scenarios.md
     └── positive-scenarios.md
+├── docs/
+│   ├── api-test-strategy.md
+│   └── security-testing-basics.md
+├── README.md
 ```
 
 ## How to read this repository
