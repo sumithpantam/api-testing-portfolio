@@ -24,13 +24,13 @@ This is a documentation-led portfolio. The JavaScript sample is illustrative and
 api-testing-portfolio/
 ├── api-test-examples/
 │   ├── apidog-api-test-examples.md
+├── docs/
+│   ├── api-test-strategy.md
+│   └── security-testing-basics.md
 └── test-cases/
     ├── boundary-scenarios.md
     ├── negative-scenarios.md
     └── positive-scenarios.md
-├── docs/
-│   ├── api-test-strategy.md
-│   └── security-testing-basics.md
 ├── README.md
 ```
 
