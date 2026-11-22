@@ -26,9 +26,8 @@ api-testing-portfolio/
 ├── docs/
 │   ├── api-test-strategy.md
 │   └── security-testing-basics.md
-├── examples/
-│   ├── illustrative-javascript-test.md
-│   └── response-validation.md
+├── api-test-examples/
+│   ├── apidog-api-test-examples.md
 └── test-cases/
     ├── boundary-scenarios.md
     ├── negative-scenarios.md
